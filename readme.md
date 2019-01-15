@@ -1,0 +1,1 @@
+Advanced Exercise for Candidate Challenge from https://github.com/nashville-software-school/client-side-mastery/blob/cohort-30/book-2-the-neophyte/chapters/OBJECTS_AS_THINGS.md
